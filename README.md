@@ -1,3 +1,5 @@
+![cover image](https://raw.githubusercontent.com/vrano714/three-vrm-ik-test/refs/heads/main/public/SS_2025-05-15_19.38.11.png)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
